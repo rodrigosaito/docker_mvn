@@ -1,4 +1,4 @@
-FROM       rodrigosaito/java8
+FROM       rodrigosaito/java:8
 
 MAINTAINER Rodrigo Saito <rodrigo.saito@gmail.com>
 
